@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+
+body {
+    font-family: "Roboto", sans-serif;
+  }
+
+.bg-main {
+    background-color: #219821;
+}
+
+.imagen-nav {
+    height: auto;
+    width: 150px;
+}
+
+.bg-form {
+    background-color: #219821;
+    color: white;
+}
+
+.btn-primary {
+    background-color: white;
+    color:black;
+    border-color: white;
+    
+}
+
+.img-footer {
+    height: auto;
+    width: 150px;
+}
+
+.text-descuento {
+    color: #25e92b;
+}
